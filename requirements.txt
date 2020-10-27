@@ -28,7 +28,7 @@ cmd2==0.7.0               # via cliff
 configobj==5.0.6
 configparser==3.5.0
 contextlib2==0.5.4        # via raven
-cryptography==2.7         # via ansible, paramiko, pyopenssl
+cryptography==3.2         # via ansible, paramiko, pyopenssl
 debtcollector==1.13.0     # via oslo.config, oslo.utils, python-keystoneclient, python-neutronclient
 deprecation==1.0          # via openstacksdk
 docopt==0.6.2
